@@ -34,4 +34,4 @@ Open your terminal, type (node index.js), then you will need to answer the promp
 
 # Video Walkthrough
 
-[Video Demonstration](https://drive.google.com/file/d/18OUCZcG0vWtkVG336k8gcal_M9Y8ZfYw/view)
+[Video Demonstration](https://drive.google.com/file/d/18OUCZcG0vWtkVG336k8gcal_M9Y8ZfYw/view) 
